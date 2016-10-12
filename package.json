@@ -1,0 +1,20 @@
+{
+  "name": "node-http",
+  "version": "1.0.0",
+  "description": "Node HTTP exercises.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Allen H. Thompson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "fs": "0.0.1-security",
+    "http": "0.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node-http"
+  }
+}
